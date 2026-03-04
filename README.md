@@ -4,4 +4,4 @@
 
 Euclidea解题参考：https://zhuchongjing.github.io/Euclidea
 
-Euclidea Discord Server: https://discord.gg/BuxhZcRj
+Euclidea Discord Server: https://discord.gg/mGN3y8CyZ
