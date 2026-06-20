@@ -1,5 +1,3 @@
-# 👋 Contact me
-
 <table>
   <tr>
     <td rowspan="3">Emails</td>
